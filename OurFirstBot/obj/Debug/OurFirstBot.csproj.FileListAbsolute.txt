@@ -1,0 +1,41 @@
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Bot Application.dll.config
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Bot Application.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Bot Application.pdb
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Autofac.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Chronic.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Newtonsoft.Json.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\System.Web.Http.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Autofac.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\Newtonsoft.Json.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\System.Web.Http.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\obj\Debug\OurFirstBot.csprojResolveAssemblyReference.cache
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\obj\Debug\OurFirstBot.csproj.CoreCompileInputs.cache
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\obj\Debug\Bot Application.dll
+C:\Users\Irshad Ahmed\Documents\Visual Studio 2017\Projects\OurFirstBot\OurFirstBot\obj\Debug\Bot Application.pdb
